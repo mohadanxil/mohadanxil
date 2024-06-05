@@ -3,10 +3,8 @@
 </h3> -->
 
 
-<!-- Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes -->
 
 
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on -->
 
   <!--[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
 
@@ -33,7 +31,6 @@ If you are a junior developer looking to level up to senior, I <a href="https://
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
-<!-- 
 
 - See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
 - 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
@@ -42,13 +39,11 @@ If you are a junior developer looking to level up to senior, I <a href="https://
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
 
--->
 
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
 ![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 
-<!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
   I would like to add you to my professional network on the GITHUB.
